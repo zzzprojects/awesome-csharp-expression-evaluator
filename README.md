@@ -18,7 +18,7 @@ A curated list of awesome C# Expression Evaluator libraries, packages, and docum
 
 ### Contributing
 
-Suggestions and contributions are always welcome! Make sure to read the <a href="https://github.com/zzzprojects/awesome-entity-framework-6/blob/master/CONTRIBUTING.md">contribution guidelines</a> for more information before submitting a pull request.
+Suggestions and contributions are always welcome! Make sure to read the <a href="https://github.com/zzzprojects/awesome-csharp-expression-evaluator/blob/main/CONTRIBUTING.md">contribution guidelines</a> for more information before submitting a pull request.
 
 ### Contents
 
