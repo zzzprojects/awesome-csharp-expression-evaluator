@@ -49,17 +49,6 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
 - [ExpressionEvaluator](https://www.nuget.org/packages/ExpressionEvaluator/) | [Website](https://riptutorial.com/expression-evaluator/learn/100000/overview)
 - [Flee](https://www.nuget.org/packages/Flee/) | [Website](https://riptutorial.com/flee/learn/100000/overview) - Flee - Fast Lightweight Expression Evaluator
 
-## Contribute
-
-The best way to contribute is by **spreading the word** about the library:
-
- - Blog it
- - Comment it
- - Star it
- - Share it
- 
-A **HUGE THANKS** for your help.
-
 ## More Projects
 
 - Projects:
