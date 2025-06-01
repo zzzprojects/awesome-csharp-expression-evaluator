@@ -1,20 +1,18 @@
-## Library Powered By
-
-This library is powered by [Entity Framework Extensions](https://entityframework-extensions.net/?z=github&y=entityframework-plus)
-
-<a href="https://entityframework-extensions.net/?z=github&y=entityframework-plus">
-<kbd>
-<img src="https://zzzprojects.github.io/images/logo/entityframework-extensions-pub.jpg" alt="Entity Framework Extensions" />
-</kbd>
-</a>
-
----
-
 # Awesome C# Expression Evaluator
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 A curated list of awesome C# Expression Evaluator libraries, packages, and documentation.
+
+## Sponsors
+
+ZZZ Projects owns and maintains **Awesome C# Expression Evaluator** as part of our [mission](https://zzzprojects.com/mission) to add value to the .NET community
+
+Through [Entity Framework Extensions](https://entityframework-extensions.net/?utm_source=zzzprojects&utm_medium=awesome-csharp-expression-evaluator) and [Dapper Plus](https://dapper-plus.net/?utm_source=zzzprojects&utm_medium=awesome-csharp-expression-evaluator), we actively sponsor and help key open-source libraries grow.
+
+[![Entity Framework Extensions](https://raw.githubusercontent.com/zzzprojects/awesome-csharp-expression-evaluator/master/entity-framework-extensions-sponsor.png)](https://entityframework-extensions.net/bulk-insert?utm_source=zzzprojects&utm_medium=awesome-csharp-expression-evaluator)
+
+[![Dapper Plus](https://raw.githubusercontent.com/zzzprojects/awesome-csharp-expression-evaluator/master/dapper-plus-sponsor.png)](https://dapper-plus.net/bulk-insert?utm_source=zzzprojects&utm_medium=awesome-csharp-expression-evaluator)
 
 ### Contributing
 
